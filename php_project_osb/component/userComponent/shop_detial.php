@@ -159,7 +159,7 @@
 
                                                     </span>
                                                     <div class="d-flex justify-content-between ">
-                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 680/- 250 gm</p>
+                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 700/- 250 gm</p>
                                                         <!-- </div> still in button.blade.php -->
                                                     <?php include 'component/userComponent/addCart_button.php'; ?>
                                                         
@@ -536,6 +536,58 @@
                                             <div class="col-md-6 col-lg-4 col-xl-3">
                                                 <div class="rounded position-relative fruite-item">
                                                     <div  class="fruite-img">
+                                                        <img src="assets/userAssets/img/tea _combo/standard_tea/standard_poli_pack_banner.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
+                                                    </div>
+
+                                                     <!-- থাম্বনেইল + Arrow -->
+                                                          <span  style="display: none;">
+                                                                <img class="thamnelImgone" src="assets/userAssets/img/tea _combo/standard_tea/standard_poli_pack_banner.jpg" >
+                                                                <img class="thamnelImgtwo " src="assets/userAssets/img/tea _combo/standard_tea/standard_tea.jpg" >
+                                                                <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/standard_tea/standard_tea_pac.jpg" >
+                                                           </span>
+                                                      <!-- থাম্বনেইল + Arrow -->
+                                                    
+                                                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                                                        <h4 class="productName">Organic Chinese Green Tea(Standard) with poli pack</h4>
+                                                        <p >স্ট্যান্ডার্ড ক্যাটাগরির গ্রিন টি </p>
+
+                                                        <span class="productCategory" style="display: none;">Category: Standard Tea</span>
+                                                        <span class="productDetails" style="display: none;">স্ট্যান্ডার্ড ক্যাটাগরির গ্রিন টি <br> এই চা এর মূল উৎপত্তিস্থল চীন <br>তাই মূল চায়ের গুণগত মান পেতে আমরা সরাসরি  চীনের ফুজিয়ান  থেকে নিয়ে এসেছি</span>
+                                                        <span class="productDescription" style="display: none;"> গ্রীন টি (Green Tea) একটি চমৎকার স্বাস্থ্যকর এবং উপকারী পানীয়। এটি ক্যামেলিয়া সিনেনসিস পাতা এবং কুঁড়ি অর্থাৎ চা গাছের পাতা এবং কুঁড়ি থেকে তৈরি করা হয়। এর স্বাস্থ্য উপকারিতা অন্যান্য চা অপেক্ষা অনেক বেশি। যারা স্বাস্থ্য সচেতন তারা ডিটক্স পানীয় হিসেবে নিয়মিত এটি পান করে থাকেন। ওজন কমানোর ক্ষেত্রে গ্রীন টি এর জুড়ি নেই। <br>
+                                                        *** গ্রীন টি এর উপকারিতা
+                                                            ১। ওজন কমাতে সাহায্য করে।
+                                                            ২। স্মৃতিশক্তি বৃদ্ধি করে।
+                                                            ৩। ডায়বেটিস প্রতিরোধে সহায়ক।
+                                                            ৪। শরীরের অতিরিক্ত ক্যালরি দূর করে।
+                                                            ৫। মেটাবলিজম বৃদ্ধি করে।
+                                                            ৬। হৃদরোগের ঝুঁকি কমায়।
+                                                            ৭। অবসাদ দূর করে।
+                                                            ৮। ত্বকের যত্নে ব্যবহার করা যায়।
+                                                            ৯। রোগ প্রতিরোধ ক্ষমতা বৃদ্ধি করে।
+                                                            ১০। ক্যান্সার প্রতিরোধে সহায়তা করে।
+
+                                                        ** এতো এতো উপকারী ভূমিকা থাকা স্বত্ত্বেও অতিরিক্ত পরিমাণ গ্রীন টি সেবন থেকে বিরত থাকাই শ্রেয়। কেননা অতিরিক্ত সেবনের ফলে দেহে কিছু পার্শ্বপ্রতিক্রিয়া দেখা দিতে পারে। তাই বিশেষজ্ঞরা দিনে ২কাপের বেশি এই চা সেবন না করার পরামর্শ দিয়ে থাকে।  <br><br>
+
+                                                        ** কেন Online Shohoj Bazar গ্রীণ টি (Green Tea) কিনবেন?
+                                                                ১। প্রাকৃতিক গুনাগুন সম্পূর্ণরূপে বজায় থাকে।
+                                                                ২। ভেজালমুক্ত বিশুদ্ধ চা।
+                                                                ৩। শতভাগ বিশুদ্ধতা নিশ্চিত করা হয়।
+                                                                ৪। সরাসরি  চীনের ফুজিয়ান  থেকে ইমপোর্টকৃত।
+
+                                                        </span>
+
+                                                        <div class="d-flex justify-content-between ">
+                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 340/- 100gm</p> 
+                                                            <!-- </div> still in button.blade.php -->
+                                                        <?php include 'component/userComponent/addCart_button.php'; ?>
+                                                            
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-6 col-lg-4 col-xl-3">
+                                                <div class="rounded position-relative fruite-item">
+                                                    <div  class="fruite-img">
                                                         <img src="assets/userAssets/img/tea_flask/double_wall_tea_flask_one.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
                                                     </div>
                                                      <!-- থাম্বনেইল + Arrow -->
@@ -611,7 +663,18 @@
                                                 </div>
                                             </div>
 
-                                            <div class="col-md-6 col-lg-4 col-xl-3">
+                                            
+
+
+                                            
+                                        </div>  
+                                    </div>
+
+                                     <!-- ==================== 4th line ===========================-->
+                                        <div class="col-lg-12">
+                                        <div class="row g-4">
+
+                                             <div class="col-md-6 col-lg-4 col-xl-3">
                                                 <div class="rounded position-relative fruite-item">
                                                     <div  class="fruite-img">
                                                         <img src="assets/userAssets/img/tea_flask/double_wall_tea_flask_three.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
@@ -649,16 +712,6 @@
                                                     </div>
                                                 </div>
                                             </div>
-
-
-                                            
-                                        </div>  
-                                    </div>
-
-                                     <!-- ==================== 4th line ===========================-->
-                                        <div class="col-lg-12">
-                                        <div class="row g-4">
-                                             
                                            
                                             <div class="col-md-6 col-lg-4 col-xl-3">
                                                 <div class="rounded position-relative fruite-item">
