@@ -388,7 +388,7 @@
                                                       <!-- থাম্বনেইল + Arrow -->
                                                 
                                                  <div class="p-4 border border-top-0 rounded-bottom">
-                                                    <h4 class="productName">Organic Chinese Green Tea(Special Gift Pack)</h4>
+                                                    <h4 class="productName">Organic Chinese Green Tea(Special Pack)</h4>
                                                         <p >স্পেশাল ক্যাটাগরির গ্রিন টি </p>
 
                                                     <span class="productCategory" style="display: none;">Category: Special Tea</span>
@@ -577,7 +577,7 @@
                                                         </span>
 
                                                         <div class="d-flex justify-content-between ">
-                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 340/- 100gm</p> 
+                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 350/- 100gm</p> 
                                                             <!-- </div> still in button.blade.php -->
                                                         <?php include 'component/userComponent/addCart_button.php'; ?>
                                                             
@@ -599,7 +599,7 @@
                                                       <!-- থাম্বনেইল + Arrow -->
                                                   
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Double Layer Green Tea Flakes(Blue) </h4>
+                                                        <h4 class="productName">Double Layer Green Tea Flask(Blue) </h4>
                                                         <p >প্রিমিয়াম ক্যাটাগরি ফ্লাক্স</p>
 
                                                         <span class="productCategory" style="display: none;">Category: Premium</span>
@@ -638,7 +638,7 @@
                                                       <!-- থাম্বনেইল + Arrow -->
                                                   
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Double Layer Green Tea Flakes (Silver) </h4>
+                                                        <h4 class="productName">Double Layer Green Tea Flask (Silver) </h4>
                                                         <p >প্রিমিয়াম ক্যাটাগরি ফ্লাক্স</p>
 
                                                         <span class="productCategory" style="display: none;">Category: Premium</span>
@@ -664,9 +664,6 @@
                                             </div>
 
                                             
-
-
-                                            
                                         </div>  
                                     </div>
 
@@ -688,7 +685,7 @@
                                                       <!-- থাম্বনেইল + Arrow -->
                                                   
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Double Layer Green Tea Flakes(Pink) </h4>
+                                                        <h4 class="productName">Double Layer Green Tea Flask(Pink) </h4>
                                                         <p >প্রিমিয়াম ক্যাটাগরি ফ্লাক্স</p>
 
                                                         <span class="productCategory" style="display: none;">Category: Premium</span>
@@ -726,7 +723,7 @@
                                                            </span>
                                                       <!-- থাম্বনেইল + Arrow -->
                                                 <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                    <h4 class="productName">Double Layer Green Tea Flakes(Transparent )</h4>
+                                                    <h4 class="productName">Double Layer Green Tea Flask(Transparent )</h4>
                                                     <p >প্রিমিয়াম ক্যাটাগরি ফ্লাক্স</p>
 
                                                     <span class="productCategory" style="display: none;">Category: Premium</span>
