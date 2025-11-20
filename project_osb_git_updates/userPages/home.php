@@ -346,7 +346,7 @@
                             </span>
                             
                             <div class="d-flex justify-content-between flex-lg-wrap">
-                                <p class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 300/- 100 gm</p>
+                                <p class="text-dark fs-5 fw-bold mb-0 productPrice">৳ Avaiable/- 100 gm</p>
                                 <a href="javascript:void(0)" onclick="goToShopDetail(this)" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Details cart</a>
                             </div>
                         </div>

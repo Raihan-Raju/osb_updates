@@ -115,7 +115,7 @@
                                                         </span>
 
                                                         <div class="d-flex justify-content-between ">
-                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 330/- 100 gm</p>
+                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 350/- 100 gm</p>
                                                             <!-- </div> still in button.blade.php -->
                                                         
                                                         <?php include 'component/userComponent/addCart_button.php'; ?>
@@ -126,9 +126,9 @@
 
                                             <div class="col-md-6 col-lg-4 col-xl-3">
                                                 <div class="rounded position-relative fruite-item">
-                                                <div  class="fruite-img">
-                                                    <img src="assets/userAssets/img/tea _combo/economy_tea/economy_cg_tea_pack.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
-                                                </div>
+                                                    <div  class="fruite-img">
+                                                        <img src="assets/userAssets/img/tea _combo/economy_tea/economy_cg_tea_pack.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
+                                                    </div>
 
                                                     <!-- থাম্বনেইল + Arrow -->
                                                         <span  style="display: none;">
@@ -166,16 +166,16 @@
 
                                                     </span>
                                                     <div class="d-flex justify-content-between ">
-                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 700/- 250 gm</p>
+                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 750/- 250 gm</p>
                                                         <!-- </div> still in button.blade.php -->
                                                     <?php include 'component/userComponent/addCart_button.php'; ?>
                                                         
                                                 </div>
-                                            </div>
+                                             </div>
                                             </div>
 
                                             <div class="col-md-6 col-lg-4 col-xl-3">
-                                            <div class="rounded position-relative fruite-item">
+                                              <div class="rounded position-relative fruite-item">
                                                     <div  class="fruite-img">
                                                         <img src="assets/userAssets/img/tea _combo/economy_tea_with_tin_pack/Economy_green_tea_with_tin_packbanner1.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
                                                     </div>
@@ -217,7 +217,7 @@
 
                                                     </span>
                                                     <div class="d-flex justify-content-between ">
-                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 980/- 250gm </p>
+                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 1030/- 250gm </p>
                                                         <!-- </div> still in button.blade.php -->
                                                     <?php include 'component/userComponent/addCart_button.php'; ?>
                                                         
@@ -268,7 +268,7 @@
                                                         </span>
 
                                                         <div class="d-flex justify-content-between ">
-                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 3000/- 250 gm</p>
+                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 3050/- 250 gm</p>
                                                             <!-- </div> still in button.blade.php -->
                                                         <?php include 'component/userComponent/addCart_button.php'; ?>
                                                             
@@ -373,16 +373,16 @@
 
                                                     </span>
                                                     <div class="d-flex justify-content-between ">
-                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 900/- 100 gm</p>
+                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 920/- 100 gm</p>
                                                         <!-- </div> still in button.blade.php -->
                                                     <?php include 'component/userComponent/addCart_button.php'; ?>
                                                         
                                                 </div>
-                                            </div>
+                                               </div>
                                             </div>
 
                                             <div class="col-md-6 col-lg-4 col-xl-3">
-                                            <div class="rounded position-relative fruite-item">
+                                               <div class="rounded position-relative fruite-item">
                                                     <div  class="fruite-img">
                                                         <img src="assets/userAssets/img/tea _combo/special_tea/special_tea_pac_banner.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
                                                     </div>
@@ -475,7 +475,7 @@
                                                         </span>
 
                                                         <div class="d-flex justify-content-between ">
-                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 1050/- 250gm</p> 
+                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 1100/- 250gm</p> 
                                                             <!-- </div> still in button.blade.php -->
                                                         <?php include 'component/userComponent/addCart_button.php'; ?>
                                                             
@@ -532,7 +532,7 @@
                                                         </span>
 
                                                         <div class="d-flex justify-content-between ">
-                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 790/- 250gm</p> 
+                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 840/- 250gm</p> 
                                                             <!-- </div> still in button.blade.php -->
                                                         <?php include 'component/userComponent/addCart_button.php'; ?>
                                                             
@@ -584,7 +584,7 @@
                                                         </span>
 
                                                         <div class="d-flex justify-content-between ">
-                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 350/- 100gm</p> 
+                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 370/- 100gm</p> 
                                                             <!-- </div> still in button.blade.php -->
                                                         <?php include 'component/userComponent/addCart_button.php'; ?>
                                                             
@@ -806,7 +806,7 @@
                                                         </span>
 
                                                         <div class="d-flex justify-content-between ">
-                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 330/- 100 gm</p>
+                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 350/- 100 gm</p>
                                                             <!-- </div> still in button.blade.php -->
                                                         
                                                         <?php include 'component/userComponent/addCart_button.php'; ?>
@@ -857,7 +857,7 @@
 
                                                     </span>
                                                     <div class="d-flex justify-content-between ">
-                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 700/- 250 gm</p>
+                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 750/- 250 gm</p>
                                                         <!-- </div> still in button.blade.php -->
                                                     <?php include 'component/userComponent/addCart_button.php'; ?>
                                                         
@@ -908,7 +908,7 @@
 
                                                     </span>
                                                     <div class="d-flex justify-content-between ">
-                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 980/- 250gm </p>
+                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 1030/- 250gm </p>
                                                         <!-- </div> still in button.blade.php -->
                                                     <?php include 'component/userComponent/addCart_button.php'; ?>
                                                         
@@ -970,7 +970,7 @@
                                                         </span>
 
                                                         <div class="d-flex justify-content-between ">
-                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 1050/- 250gm</p> 
+                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 1100/- 250gm</p> 
                                                             <!-- </div> still in button.blade.php -->
                                                         <?php include 'component/userComponent/addCart_button.php'; ?>
                                                             
@@ -1022,7 +1022,7 @@
                                                         </span>
 
                                                         <div class="d-flex justify-content-between ">
-                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 790/- 250gm</p> 
+                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 840/- 250gm</p> 
                                                             <!-- </div> still in button.blade.php -->
                                                         <?php include 'component/userComponent/addCart_button.php'; ?>
                                                             
@@ -1074,7 +1074,7 @@
                                                         </span>
 
                                                         <div class="d-flex justify-content-between ">
-                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 350/- 100gm</p> 
+                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 370/- 100gm</p> 
                                                             <!-- </div> still in button.blade.php -->
                                                         <?php include 'component/userComponent/addCart_button.php'; ?>
                                                             
@@ -1134,7 +1134,7 @@
 
                                                     </span>
                                                     <div class="d-flex justify-content-between ">
-                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 900/- 100 gm</p>
+                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 920/- 100 gm</p>
                                                         <!-- </div> still in button.blade.php -->
                                                     <?php include 'component/userComponent/addCart_button.php'; ?>
                                                         
@@ -1197,7 +1197,7 @@
                                                         </span>
 
                                                         <div class="d-flex justify-content-between ">
-                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 3000/- 250 gm</p>
+                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 3050/- 250 gm</p>
                                                             <!-- </div> still in button.blade.php -->
                                                         <?php include 'component/userComponent/addCart_button.php'; ?>
                                                             
