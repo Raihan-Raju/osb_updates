@@ -51,7 +51,7 @@
                         <p>Address: East Kafrul, Mirpur-14, Dhaka,Bangladesh</p>
                         <!-- <p>Email: Example@gmail.com</p> -->
                        
-                        <p>Phone: +880 1893223455</p>
+                        <p>Phone:+88 01323880031</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
@@ -78,7 +78,7 @@
                     <!--/*** This template is free as long as you keep the below author’s credit link/attribution link/backlink. ***/-->
                     <!--/*** If you'd like to use the template without the below author’s credit link/attribution link/backlink, ***/-->
                     
-                    Designed By <a class="border-bottom" href="https://raihan-raju.github.io/rajupp/"><i class="fas fa-copyright text-light me-2"></i>Raihan Raju</a> Created By <a class="border-bottom" href="https://raihan-raju.github.io/rajupp/">@Raihan Raju</a>
+                     <!-- Created By <a class="border-bottom" href="https://raihan-raju.github.io/rajupp/">@Raihan Raju</a> -->
                 </div>
             </div>
         </div>
@@ -87,7 +87,7 @@
 
     <!-- Back to Top -->
     <div class="floating-icons">
-        <a href="https://wa.me/8801893223455" target="_blank">
+        <a href="https://wa.me/8801323880031" target="_blank">
             <img src="assets/userAssets/img/whatsapp.png" alt="WhatsApp" class="floating-icon">
         </a>
         <a href="https://www.facebook.com/OnlineShohojBazar24" target="_blank">
