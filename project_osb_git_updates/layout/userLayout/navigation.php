@@ -21,7 +21,7 @@
                 <div class="top-info ps-2">
                     <small class="me-3"><i class="fas fa-map-marker-alt me-2 text-secondary"></i> <a href="#" class="text-white">Address: East Kafrul, Mirpur-14, Dhaka,Bangladesh</a></small>
                     <!-- <small class="me-3"><i class="fas fa-envelope me-2 text-secondary"></i><a href="#" class="text-white">Email@Example.com</a></small> -->
-                    <small class="me-3"><i class="fa-solid fa-phone-volume me-2 text-secondary"></i><a href="#" class="text-white">+8801893223455
+                    <small class="me-3"><i class="fa-solid fa-phone-volume me-2 text-secondary"></i><a href="#" class="text-white">+8801323880031
                     </a></small>
                 </div>
                 <div class="top-link pe-2">
