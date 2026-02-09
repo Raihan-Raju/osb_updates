@@ -86,7 +86,7 @@
                                                         </span>
                                                     <!-- থাম্বনেইল + Arrow -->
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Organic Chinese Green Tea(Economy)</h4>
+                                                        <h4 class="productName">Organic Chinese Green Tea (Economy)</h4>
                                                         <p >ইকোনোমিক ক্যাটাগরির গ্রিন টি </p>
 
                                                         <span class="productCategory" style="display: none;">Category: Economy</span>
@@ -138,7 +138,7 @@
                                                         </span>
                                                     <!-- থাম্বনেইল + Arrow -->
                                                 <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                    <h4 class="productName">Organic Chinese Green Tea(Economy)</h4>
+                                                    <h4 class="productName">Organic Chinese Green Tea (Economy)</h4>
                                                     <p >ইকোনোমিক ক্যাটাগরির গ্রিন টি </p>
 
                                                     <span class="productCategory" style="display: none;">Category: Economy</span>
@@ -166,7 +166,7 @@
 
                                                     </span>
                                                     <div class="d-flex justify-content-between ">
-                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 750/- 250 gm</p>
+                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 820/- 250 gm</p>
                                                         <!-- </div> still in button.blade.php -->
                                                     <?php include 'component/userComponent/addCart_button.php'; ?>
                                                         
@@ -189,7 +189,7 @@
                                                     <!-- থাম্বনেইল + Arrow -->
                                                 
                                                 <div class="p-4 border border-top-0 rounded-bottom">
-                                                    <h4 class="productName">Organic Chinese Green Tea(Economy with tin pack)</h4>
+                                                    <h4 class="productName">Organic Chinese Green Tea (Economy with tin pack)</h4>
                                                         <p >ইকোনোমিক ক্যাটাগরির গ্রিন টি </p>
 
                                                     <span class="productCategory" style="display: none;">Category: Standard</span>
@@ -239,7 +239,7 @@
                                                     <!-- থাম্বনেইল + Arrow -->
                                                     
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Organic Chinese Green Tea(Special Gift Pack)</h4>
+                                                        <h4 class="productName">Organic Chinese Green Tea (Special Gift Pack)</h4>
                                                         <p >স্পেশাল ক্যাটাগরির গ্রিন টি </p>
 
                                                         <span class="productCategory" style="display: none;">Category: Special Tea</span>
@@ -294,7 +294,7 @@
                                                     <!-- থাম্বনেইল + Arrow -->
                                                 
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Organic Chinese Green Tea(Premium)</h4>
+                                                        <h4 class="productName">Organic Chinese Green Tea (Premium)</h4>
                                                         <p >প্রিমিয়াম ক্যাটাগরির গ্রিন টি </p>
 
                                                         <span class="productCategory" style="display: none;">Category: Premium</span>
@@ -345,7 +345,7 @@
                                                         </span>
                                                     <!-- থাম্বনেইল + Arrow -->
                                                 <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                    <h4 class="productName">Organic Chinese Green Tea( Elite )</h4>
+                                                    <h4 class="productName">Organic Chinese Green Tea (Elite)</h4>
                                                     <p >এলিট ক্যাটাগরির গ্রিন টি </p>
 
                                                     <span class="productCategory" style="display: none;">Category: Elite</span>
@@ -373,7 +373,7 @@
 
                                                     </span>
                                                     <div class="d-flex justify-content-between ">
-                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 950/- 100 gm</p>
+                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 1000/- 100 gm</p>
                                                         <!-- </div> still in button.blade.php -->
                                                     <?php include 'component/userComponent/addCart_button.php'; ?>
                                                         
@@ -395,7 +395,7 @@
                                                     <!-- থাম্বনেইল + Arrow -->
                                                 
                                                 <div class="p-4 border border-top-0 rounded-bottom">
-                                                    <h4 class="productName">Organic Chinese Green Tea(Special Pack)</h4>
+                                                    <h4 class="productName">Organic Chinese Green Tea (Special Pack)</h4>
                                                         <p >স্পেশাল ক্যাটাগরির গ্রিন টি </p>
 
                                                     <span class="productCategory" style="display: none;">Category: Special Tea</span>
@@ -446,7 +446,7 @@
                                                     <!-- থাম্বনেইল + Arrow -->
                                                     
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Organic Chinese Green Tea(Standard) with Tin Pack</h4>
+                                                        <h4 class="productName">Organic Chinese Green Tea (Standard) with Tin Pack</h4>
                                                         <p >স্ট্যান্ডার্ড ক্যাটাগরির গ্রিন টি </p>
 
                                                         <span class="productCategory" style="display: none;">Category: Standard Tea</span>
@@ -503,7 +503,7 @@
                                                     <!-- থাম্বনেইল + Arrow -->
                                                     
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Organic Chinese Green Tea(Standard) with poli pack</h4>
+                                                        <h4 class="productName">Organic Chinese Green Tea (Standard) with poli pack</h4>
                                                         <p >স্ট্যান্ডার্ড ক্যাটাগরির গ্রিন টি </p>
 
                                                         <span class="productCategory" style="display: none;">Category: Standard Tea</span>
@@ -532,7 +532,7 @@
                                                         </span>
 
                                                         <div class="d-flex justify-content-between ">
-                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 840/- 250gm</p> 
+                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 900/- 250gm</p> 
                                                             <!-- </div> still in button.blade.php -->
                                                         <?php include 'component/userComponent/addCart_button.php'; ?>
                                                             
@@ -555,7 +555,7 @@
                                                     <!-- থাম্বনেইল + Arrow -->
                                                     
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Organic Chinese Green Tea(Standard) with poli pack</h4>
+                                                        <h4 class="productName">Organic Chinese Green Tea (Standard) with poli pack</h4>
                                                         <p >স্ট্যান্ডার্ড ক্যাটাগরির গ্রিন টি </p>
 
                                                         <span class="productCategory" style="display: none;">Category: Standard Tea</span>
@@ -606,7 +606,7 @@
                                                     <!-- থাম্বনেইল + Arrow -->
                                                 
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Double Layer Green Tea Flask(Blue) </h4>
+                                                        <h4 class="productName">Double Layer Green Tea Flask (Blue) </h4>
                                                         <p >প্রিমিয়াম ক্যাটাগরি ফ্লাক্স</p>
 
                                                         <span class="productCategory" style="display: none;">Category: Premium</span>
@@ -675,7 +675,7 @@
                                     </div>
 
                                     <!-- ==================== 4th line ===========================-->
-                                        <div class="col-lg-12">
+                                    <div class="col-lg-12">
                                         <div class="row g-4">
 
                                             <div class="col-md-6 col-lg-4 col-xl-3">
@@ -692,7 +692,7 @@
                                                     <!-- থাম্বনেইল + Arrow -->
                                                 
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Double Layer Green Tea Flask(Pink) </h4>
+                                                        <h4 class="productName">Double Layer Green Tea Flask (Pink) </h4>
                                                         <p >প্রিমিয়াম ক্যাটাগরি ফ্লাক্স</p>
 
                                                         <span class="productCategory" style="display: none;">Category: Premium</span>
@@ -730,7 +730,7 @@
                                                         </span>
                                                     <!-- থাম্বনেইল + Arrow -->
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Double Layer Green Tea Flask(Transparent )</h4>
+                                                        <h4 class="productName">Double Layer Green Tea Flask (Transparent )</h4>
                                                         <p >প্রিমিয়াম ক্যাটাগরি ফ্লাক্স</p>
 
                                                         <span class="productCategory" style="display: none;">Category: Premium</span>
@@ -777,7 +777,7 @@
                                                         </span>
                                                     <!-- থাম্বনেইল + Arrow -->
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Organic Chinese Green Tea(Economy)</h4>
+                                                        <h4 class="productName">Organic Chinese Green Tea (Economy)</h4>
                                                         <p >ইকোনোমিক ক্যাটাগরির গ্রিন টি </p>
 
                                                         <span class="productCategory" style="display: none;">Category: Economy</span>
@@ -829,7 +829,7 @@
                                                         </span>
                                                     <!-- থাম্বনেইল + Arrow -->
                                                 <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                    <h4 class="productName">Organic Chinese Green Tea(Economy)</h4>
+                                                    <h4 class="productName">Organic Chinese Green Tea (Economy)</h4>
                                                     <p >ইকোনোমিক ক্যাটাগরির গ্রিন টি </p>
 
                                                     <span class="productCategory" style="display: none;">Category: Economy</span>
@@ -857,7 +857,7 @@
 
                                                     </span>
                                                     <div class="d-flex justify-content-between ">
-                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 750/- 250 gm</p>
+                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 820/- 250 gm</p>
                                                         <!-- </div> still in button.blade.php -->
                                                     <?php include 'component/userComponent/addCart_button.php'; ?>
                                                         
@@ -880,7 +880,7 @@
                                                     <!-- থাম্বনেইল + Arrow -->
                                                 
                                                 <div class="p-4 border border-top-0 rounded-bottom">
-                                                    <h4 class="productName">Organic Chinese Green Tea(Economy with tin pack)</h4>
+                                                    <h4 class="productName">Organic Chinese Green Tea (Economy with tin pack)</h4>
                                                         <p >ইকোনোমিক ক্যাটাগরির গ্রিন টি </p>
 
                                                     <span class="productCategory" style="display: none;">Category: Standard</span>
@@ -941,7 +941,7 @@
                                                     <!-- থাম্বনেইল + Arrow -->
                                                     
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Organic Chinese Green Tea(Standard) with Tin Pack</h4>
+                                                        <h4 class="productName">Organic Chinese Green Tea (Standard) with Tin Pack</h4>
                                                         <p >স্ট্যান্ডার্ড ক্যাটাগরির গ্রিন টি </p>
 
                                                         <span class="productCategory" style="display: none;">Category: Standard Tea</span>
@@ -993,7 +993,7 @@
                                                     <!-- থাম্বনেইল + Arrow -->
                                                     
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Organic Chinese Green Tea(Standard) with poli pack</h4>
+                                                        <h4 class="productName">Organic Chinese Green Tea (Standard) with poli pack</h4>
                                                         <p >স্ট্যান্ডার্ড ক্যাটাগরির গ্রিন টি </p>
 
                                                         <span class="productCategory" style="display: none;">Category: Standard Tea</span>
@@ -1022,7 +1022,7 @@
                                                         </span>
 
                                                         <div class="d-flex justify-content-between ">
-                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 840/- 250gm</p> 
+                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 900/- 250gm</p> 
                                                             <!-- </div> still in button.blade.php -->
                                                         <?php include 'component/userComponent/addCart_button.php'; ?>
                                                             
@@ -1045,7 +1045,7 @@
                                                     <!-- থাম্বনেইল + Arrow -->
                                                     
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Organic Chinese Green Tea(Standard) with poli pack</h4>
+                                                        <h4 class="productName">Organic Chinese Green Tea (Standard) with poli pack</h4>
                                                         <p >স্ট্যান্ডার্ড ক্যাটাগরির গ্রিন টি </p>
 
                                                         <span class="productCategory" style="display: none;">Category: Standard Tea</span>
@@ -1106,7 +1106,7 @@
                                                         </span>
                                                     <!-- থাম্বনেইল + Arrow -->
                                                 <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                    <h4 class="productName">Organic Chinese Green Tea( Elite )</h4>
+                                                    <h4 class="productName">Organic Chinese Green Tea (Elite)</h4>
                                                     <p >এলিট ক্যাটাগরির গ্রিন টি </p>
 
                                                     <span class="productCategory" style="display: none;">Category: Elite</span>
@@ -1134,7 +1134,7 @@
 
                                                     </span>
                                                     <div class="d-flex justify-content-between ">
-                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 920/- 100 gm</p>
+                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 1000/- 100 gm</p>
                                                         <!-- </div> still in button.blade.php -->
                                                     <?php include 'component/userComponent/addCart_button.php'; ?>
                                                         
@@ -1168,7 +1168,7 @@
                                                     <!-- থাম্বনেইল + Arrow -->
                                                     
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Organic Chinese Green Tea(Special Gift Pack)</h4>
+                                                        <h4 class="productName">Organic Chinese Green Tea (Special Gift Pack)</h4>
                                                         <p >স্পেশাল ক্যাটাগরির গ্রিন টি </p>
 
                                                         <span class="productCategory" style="display: none;">Category: Special Tea</span>
@@ -1219,7 +1219,7 @@
                                                         <!-- থাম্বনেইল + Arrow -->
                                                     
                                                     <div class="p-4 border border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Organic Chinese Green Tea(Special Pack)</h4>
+                                                        <h4 class="productName">Organic Chinese Green Tea (Special Pack)</h4>
                                                             <p >স্পেশাল ক্যাটাগরির গ্রিন টি </p>
 
                                                         <span class="productCategory" style="display: none;">Category: Special Tea</span>
@@ -1279,7 +1279,7 @@
                                                     <!-- থাম্বনেইল + Arrow -->
                                                 
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Double Layer Green Tea Flask(Blue) </h4>
+                                                        <h4 class="productName">Double Layer Green Tea Flask (Blue) </h4>
                                                         <p >প্রিমিয়াম ক্যাটাগরি ফ্লাক্স</p>
 
                                                         <span class="productCategory" style="display: none;">Category: Premium</span>
@@ -1357,7 +1357,7 @@
                                                     <!-- থাম্বনেইল + Arrow -->
                                                 
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Double Layer Green Tea Flask(Pink) </h4>
+                                                        <h4 class="productName">Double Layer Green Tea Flask (Pink) </h4>
                                                         <p >প্রিমিয়াম ক্যাটাগরি ফ্লাক্স</p>
 
                                                         <span class="productCategory" style="display: none;">Category: Premium</span>
@@ -1395,7 +1395,7 @@
                                                         </span>
                                                     <!-- থাম্বনেইল + Arrow -->
                                                     <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Double Layer Green Tea Flask(Transparent )</h4>
+                                                        <h4 class="productName">Double Layer Green Tea Flask (Transparent )</h4>
                                                         <p >প্রিমিয়াম ক্যাটাগরি ফ্লাক্স</p>
 
                                                         <span class="productCategory" style="display: none;">Category: Premium</span>
