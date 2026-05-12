@@ -113,7 +113,11 @@ if(isset($_GET['search_product']))
 <!-- Product -->
 	<div class="bg0 m-t-23 p-b-140">
 		<div class="container">
-			<div class="flex-w flex-sb-m p-b-52">
+      
+		     
+			 <?php include 'search_bar.php'; ?>
+			 
+			 <div class="flex-w flex-sb-m p-b-52">
 				<div class="flex-w flex-l-m filter-tope-group m-tb-10">
 					
 					<button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5 how-active1" data-filter="*">
@@ -190,7 +194,7 @@ if(isset($_GET['search_product']))
 												Default
 										</a>
 									<?php }
-									 ?>
+										?>
 								</li>
 
 								<li class="p-b-6">
@@ -207,7 +211,7 @@ if(isset($_GET['search_product']))
 										Newness
 										</a>
 									<?php }
-									 ?>
+										?>
 								</li>
 
 								<li class="p-b-6">
@@ -224,7 +228,7 @@ if(isset($_GET['search_product']))
 											Price: Low to High
 										</a>
 									<?php }
-									 ?>
+										?>
 								</li>
 								
 								<li class="p-b-6">
@@ -241,7 +245,7 @@ if(isset($_GET['search_product']))
 											Price: High to Low
 										</a>
 									<?php }
-									 ?>
+										?>
 								</li>
 							</ul>
 						</div>
@@ -249,6 +253,7 @@ if(isset($_GET['search_product']))
 					</div>
 				</div>
 			</div>
+			 
 
 			<!-- products -->
 
