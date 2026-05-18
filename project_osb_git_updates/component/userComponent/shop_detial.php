@@ -543,7 +543,7 @@
                                             <div class="col-md-6 col-lg-4 col-xl-3">
                                                 <div class="rounded position-relative fruite-item">
                                                     <div  class="fruite-img">
-                                                        <img src="assets/userAssets/img/tea _combo/standard_tea/standard_poli_pack_banner1.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
+                                                        <img src="assets/userAssets/img/tea _combo/standard_tea/standard_poli_pack_banner.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
                                                     </div>
 
                                                     <!-- থাম্বনেইল + Arrow -->
