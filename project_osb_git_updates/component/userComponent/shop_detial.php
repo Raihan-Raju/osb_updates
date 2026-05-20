@@ -38,22 +38,22 @@
                                     </li>
                                     <li class="nav-item">
                                         <a class="d-flex py-2 m-2 bg-light rounded-pill" data-bs-toggle="pill" href="#tab-2">
-                                            <span class="text-dark" style="width: 150px;">Economy_CG_Tea</span>
+                                            <span class="text-dark" style="width: 150px;">Economy_CG Tea</span>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="d-flex m-2 py-2 bg-light rounded-pill" data-bs-toggle="pill" href="#tab-3">
-                                            <span class="text-dark" style="width: 150px;">Standard_CG_Tea</span>
+                                            <span class="text-dark" style="width: 150px;">Standard_CG Tea</span>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="d-flex m-2 py-2 bg-light rounded-pill" data-bs-toggle="pill" href="#tab-4">
-                                            <span class="text-dark" style="width: 150px;">Elite_tea</span>
+                                            <span class="text-dark" style="width: 150px;">Elite tea</span>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="d-flex m-2 py-2 bg-light rounded-pill" data-bs-toggle="pill" href="#tab-5">
-                                            <span class="text-dark" style="width: 150px;">Aristocrat_gift_tea</span>
+                                            <span class="text-dark" style="width: 190px;">Gift And special tea</span>
                                         </a>
                                     </li>
                                     <li class="nav-item">
@@ -289,7 +289,7 @@
                                                         <span  style="display: none;">
                                                                 <img class="thamnelImgone" src="assets/userAssets/img/tea _combo/premium/premium_green_teabaner.jpg" >
                                                                 <img class="thamnelImgtwo " src="assets/userAssets/img/tea _combo/premium/premium_tea.jpg" >
-                                                                <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/special_tea/special_tea_pac.jpg" >
+                                                                <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/premium/premium_green_teabaner.jpg" >
                                                         </span>
                                                     <!-- থাম্বনেইল + Arrow -->
                                                 
@@ -331,7 +331,166 @@
                                                     </div>
                                                 </div>
                                             </div>
+                                             
+                                            <div class="col-md-6 col-lg-4 col-xl-3">
+                                                <div class="rounded position-relative fruite-item">
+                                                    <div  class="fruite-img">
+                                                        <img src="assets/userAssets/img/tea _combo/premium/premium_green_teabaner.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
+                                                    </div>
+                                                    <!-- থাম্বনেইল + Arrow -->
+                                                        <span  style="display: none;">
+                                                                <img class="thamnelImgone" src="assets/userAssets/img/tea _combo/premium/premium_green_teabaner.jpg" >
+                                                                <img class="thamnelImgtwo " src="assets/userAssets/img/tea _combo/premium/premium_tea.jpg" >
+                                                                <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/premium/premium_green_teabaner.jpg" >
+                                                        </span>
+                                                    <!-- থাম্বনেইল + Arrow -->
+                                                
+                                                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                                                        <h4 class="productName">Organic Chinese Green Tea (Premium)</h4>
+                                                        <p >প্রিমিয়াম ক্যাটাগরির গ্রিন টি </p>
 
+                                                        <span class="productCategory" style="display: none;">Category: Premium</span>
+                                                        <span class="productDetails" style="display: none;">প্রিমিয়াম ক্যাটাগরির গ্রিন টি <br> এই চা এর মূল উৎপত্তিস্থল চীন <br>তাই মূল চায়ের গুণগত মান পেতে আমরা সরাসরি  চীনের ফুজিয়ান  থেকে নিয়ে এসেছি</span>
+                                                        <span class="productDescription" style="display: none;"> গ্রীন টি (Green Tea) একটি চমৎকার স্বাস্থ্যকর এবং উপকারী পানীয়। এটি ক্যামেলিয়া সিনেনসিস পাতা এবং কুঁড়ি অর্থাৎ চা গাছের পাতা এবং কুঁড়ি থেকে তৈরি করা হয়। এর স্বাস্থ্য উপকারিতা অন্যান্য চা অপেক্ষা অনেক বেশি। যারা স্বাস্থ্য সচেতন তারা ডিটক্স পানীয় হিসেবে নিয়মিত এটি পান করে থাকেন। ওজন কমানোর ক্ষেত্রে গ্রীন টি এর জুড়ি নেই। <br>
+                                                        *** গ্রীন টি এর উপকারিতা
+                                                            ১। ওজন কমাতে সাহায্য করে।
+                                                            ২। স্মৃতিশক্তি বৃদ্ধি করে।
+                                                            ৩। ডায়বেটিস প্রতিরোধে সহায়ক।
+                                                            ৪। শরীরের অতিরিক্ত ক্যালরি দূর করে।
+                                                            ৫। মেটাবলিজম বৃদ্ধি করে।
+                                                            ৬। হৃদরোগের ঝুঁকি কমায়।
+                                                            ৭। অবসাদ দূর করে।
+                                                            ৮। ত্বকের যত্নে ব্যবহার করা যায়।
+                                                            ৯। রোগ প্রতিরোধ ক্ষমতা বৃদ্ধি করে।
+                                                            ১০। ক্যান্সার প্রতিরোধে সহায়তা করে।
+
+                                                        ** এতো এতো উপকারী ভূমিকা থাকা স্বত্ত্বেও অতিরিক্ত পরিমাণ গ্রীন টি সেবন থেকে বিরত থাকাই শ্রেয়। কেননা অতিরিক্ত সেবনের ফলে দেহে কিছু পার্শ্বপ্রতিক্রিয়া দেখা দিতে পারে। তাই বিশেষজ্ঞরা দিনে ২কাপের বেশি এই চা সেবন না করার পরামর্শ দিয়ে থাকে।  <br><br>
+
+                                                        ** কেন Online Shohoj Bazar গ্রীণ টি (Green Tea) কিনবেন?
+                                                                ১। প্রাকৃতিক গুনাগুন সম্পূর্ণরূপে বজায় থাকে।
+                                                                ২। ভেজালমুক্ত বিশুদ্ধ চা।
+                                                                ৩। শতভাগ বিশুদ্ধতা নিশ্চিত করা হয়।
+                                                                ৪। সরাসরি  চীনের ফুজিয়ান  থেকে ইমপোর্টকৃত।
+
+                                                        </span>
+
+                                                        <div class="d-flex justify-content-between ">
+                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 450/- 100 gm</p>
+                                                            <!-- </div> still in button.blade.php -->
+                                                        
+                                                        <?php include 'component/userComponent/addCart_button.php'; ?>
+                                                            
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="col-md-6 col-lg-4 col-xl-3">
+                                               <div class="rounded position-relative fruite-item">
+                                                    <div  class="fruite-img">
+                                                        <img src="assets/userAssets/img/tea _combo/special_tea/special_tea_pac_banner.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
+                                                    </div>
+                                                    <!-- থাম্বনেইল + Arrow -->
+                                                        <span  style="display: none;">
+                                                                <img class="thamnelImgone" src="assets/userAssets/img/tea _combo/special_tea/special_tea_pac_banner.jpg" >
+                                                                <img class="thamnelImgtwo " src="assets/userAssets/img/tea _combo/special_tea/special_tea.jpg" >
+                                                                <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/special_tea/special_tea_pac_banner.jpg" >
+                                                        </span>
+                                                    <!-- থাম্বনেইল + Arrow -->
+                                                
+                                                <div class="p-4 border border-top-0 rounded-bottom">
+                                                    <h4 class="productName">Organic Chinese Green Tea (Special Pack)</h4>
+                                                        <p >স্পেশাল ক্যাটাগরির গ্রিন টি </p>
+
+                                                    <span class="productCategory" style="display: none;">Category: Special Tea</span>
+                                                    <span class="productDetails" style="display: none;">স্পেশাল ক্যাটাগরির গ্রিন টি <br> এই চা এর মূল উৎপত্তিস্থল চীন <br>তাই মূল চায়ের গুণগত মান পেতে আমরা সরাসরি  চীনের ফুজিয়ান  থেকে নিয়ে এসেছি</span>
+                                                    <span class="productDescription" style="display: none;"> গ্রীন টি (Green Tea) একটি চমৎকার স্বাস্থ্যকর এবং উপকারী পানীয়। এটি ক্যামেলিয়া সিনেনসিস পাতা এবং কুঁড়ি অর্থাৎ চা গাছের পাতা এবং কুঁড়ি থেকে তৈরি করা হয়। এর স্বাস্থ্য উপকারিতা অন্যান্য চা অপেক্ষা অনেক বেশি। যারা স্বাস্থ্য সচেতন তারা ডিটক্স পানীয় হিসেবে নিয়মিত এটি পান করে থাকেন। ওজন কমানোর ক্ষেত্রে গ্রীন টি এর জুড়ি নেই। <br>
+                                                    *** গ্রীন টি এর উপকারিতা
+                                                        ১। ওজন কমাতে সাহায্য করে।
+                                                        ২। স্মৃতিশক্তি বৃদ্ধি করে।
+                                                        ৩। ডায়বেটিস প্রতিরোধে সহায়ক।
+                                                        ৪। শরীরের অতিরিক্ত ক্যালরি দূর করে।
+                                                        ৫। মেটাবলিজম বৃদ্ধি করে।
+                                                        ৬। হৃদরোগের ঝুঁকি কমায়।
+                                                        ৭। অবসাদ দূর করে।
+                                                        ৮। ত্বকের যত্নে ব্যবহার করা যায়।
+                                                        ৯। রোগ প্রতিরোধ ক্ষমতা বৃদ্ধি করে।
+                                                        ১০। ক্যান্সার প্রতিরোধে সহায়তা করে।
+
+                                                    ** এতো এতো উপকারী ভূমিকা থাকা স্বত্ত্বেও অতিরিক্ত পরিমাণ গ্রীন টি সেবন থেকে বিরত থাকাই শ্রেয়। কেননা অতিরিক্ত সেবনের ফলে দেহে কিছু পার্শ্বপ্রতিক্রিয়া দেখা দিতে পারে। তাই বিশেষজ্ঞরা দিনে ২কাপের বেশি এই চা সেবন না করার পরামর্শ দিয়ে থাকে।  <br><br>
+
+                                                    ** কেন Online Shohoj Bazar গ্রীণ টি (Green Tea) কিনবেন?
+                                                            ১। প্রাকৃতিক গুনাগুন সম্পূর্ণরূপে বজায় থাকে।
+                                                            ২। ভেজালমুক্ত বিশুদ্ধ চা।
+                                                            ৩। শতভাগ বিশুদ্ধতা নিশ্চিত করা হয়।
+                                                            ৪। সরাসরি  চীনের ফুজিয়ান  থেকে ইমপোর্টকৃত।
+
+                                                    </span>
+                                                    <div class="d-flex justify-content-between ">
+                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 420/- 100gm </p>
+                                                        <!-- </div> still in button.blade.php -->
+                                                    <?php include 'component/userComponent/addCart_button.php'; ?>
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-6 col-lg-4 col-xl-3">
+                                               <div class="rounded position-relative fruite-item">
+                                                    <div  class="fruite-img">
+                                                        <img src="assets/userAssets/img/tea _combo/special_tea/special_tea_pac_banner.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
+                                                    </div>
+                                                    <!-- থাম্বনেইল + Arrow -->
+                                                        <span  style="display: none;">
+                                                                <img class="thamnelImgone" src="assets/userAssets/img/tea _combo/special_tea/special_tea_pac_banner.jpg" >
+                                                                <img class="thamnelImgtwo " src="assets/userAssets/img/tea _combo/special_tea/special_tea.jpg" >
+                                                                <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/special_tea/special_tea_pac_banner.jpg" >
+                                                        </span>
+                                                    <!-- থাম্বনেইল + Arrow -->
+                                                
+                                                <div class="p-4 border border-top-0 rounded-bottom">
+                                                    <h4 class="productName">Organic Chinese Green Tea (Special Pack)</h4>
+                                                        <p >স্পেশাল ক্যাটাগরির গ্রিন টি </p>
+
+                                                    <span class="productCategory" style="display: none;">Category: Special Tea</span>
+                                                    <span class="productDetails" style="display: none;">স্পেশাল ক্যাটাগরির গ্রিন টি <br> এই চা এর মূল উৎপত্তিস্থল চীন <br>তাই মূল চায়ের গুণগত মান পেতে আমরা সরাসরি  চীনের ফুজিয়ান  থেকে নিয়ে এসেছি</span>
+                                                    <span class="productDescription" style="display: none;"> গ্রীন টি (Green Tea) একটি চমৎকার স্বাস্থ্যকর এবং উপকারী পানীয়। এটি ক্যামেলিয়া সিনেনসিস পাতা এবং কুঁড়ি অর্থাৎ চা গাছের পাতা এবং কুঁড়ি থেকে তৈরি করা হয়। এর স্বাস্থ্য উপকারিতা অন্যান্য চা অপেক্ষা অনেক বেশি। যারা স্বাস্থ্য সচেতন তারা ডিটক্স পানীয় হিসেবে নিয়মিত এটি পান করে থাকেন। ওজন কমানোর ক্ষেত্রে গ্রীন টি এর জুড়ি নেই। <br>
+                                                    *** গ্রীন টি এর উপকারিতা
+                                                        ১। ওজন কমাতে সাহায্য করে।
+                                                        ২। স্মৃতিশক্তি বৃদ্ধি করে।
+                                                        ৩। ডায়বেটিস প্রতিরোধে সহায়ক।
+                                                        ৪। শরীরের অতিরিক্ত ক্যালরি দূর করে।
+                                                        ৫। মেটাবলিজম বৃদ্ধি করে।
+                                                        ৬। হৃদরোগের ঝুঁকি কমায়।
+                                                        ৭। অবসাদ দূর করে।
+                                                        ৮। ত্বকের যত্নে ব্যবহার করা যায়।
+                                                        ৯। রোগ প্রতিরোধ ক্ষমতা বৃদ্ধি করে।
+                                                        ১০। ক্যান্সার প্রতিরোধে সহায়তা করে।
+
+                                                    ** এতো এতো উপকারী ভূমিকা থাকা স্বত্ত্বেও অতিরিক্ত পরিমাণ গ্রীন টি সেবন থেকে বিরত থাকাই শ্রেয়। কেননা অতিরিক্ত সেবনের ফলে দেহে কিছু পার্শ্বপ্রতিক্রিয়া দেখা দিতে পারে। তাই বিশেষজ্ঞরা দিনে ২কাপের বেশি এই চা সেবন না করার পরামর্শ দিয়ে থাকে।  <br><br>
+
+                                                    ** কেন Online Shohoj Bazar গ্রীণ টি (Green Tea) কিনবেন?
+                                                            ১। প্রাকৃতিক গুনাগুন সম্পূর্ণরূপে বজায় থাকে।
+                                                            ২। ভেজালমুক্ত বিশুদ্ধ চা।
+                                                            ৩। শতভাগ বিশুদ্ধতা নিশ্চিত করা হয়।
+                                                            ৪। সরাসরি  চীনের ফুজিয়ান  থেকে ইমপোর্টকৃত।
+
+                                                    </span>
+                                                    <div class="d-flex justify-content-between ">
+                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 600/- 150gm </p>
+                                                        <!-- </div> still in button.blade.php -->
+                                                    <?php include 'component/userComponent/addCart_button.php'; ?>
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            
+                                        </div>  
+                                    </div>
+                                 <!-- ====================3rd line ===========================-->
+                                    <div class="col-lg-12">
+                                        <div class="row g-4">
+                                            
                                             <div class="col-md-6 col-lg-4 col-xl-3">
                                                 <div class="rounded position-relative fruite-item">
                                                 <div  class="fruite-img">
@@ -379,56 +538,6 @@
                                                         
                                                 </div>
                                                </div>
-                                            </div>
-
-                                            <div class="col-md-6 col-lg-4 col-xl-3">
-                                               <div class="rounded position-relative fruite-item">
-                                                    <div  class="fruite-img">
-                                                        <img src="assets/userAssets/img/tea _combo/special_tea/special_tea_pac_banner.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
-                                                    </div>
-                                                    <!-- থাম্বনেইল + Arrow -->
-                                                        <span  style="display: none;">
-                                                                <img class="thamnelImgone" src="assets/userAssets/img/tea _combo/special_tea/special_tea_pac_banner.jpg" >
-                                                                <img class="thamnelImgtwo " src="assets/userAssets/img/tea _combo/special_tea/special_tea_pac.jpg" >
-                                                                <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/special_tea/special_tea.jpg" >
-                                                        </span>
-                                                    <!-- থাম্বনেইল + Arrow -->
-                                                
-                                                <div class="p-4 border border-top-0 rounded-bottom">
-                                                    <h4 class="productName">Organic Chinese Green Tea (Special Pack)</h4>
-                                                        <p >স্পেশাল ক্যাটাগরির গ্রিন টি </p>
-
-                                                    <span class="productCategory" style="display: none;">Category: Special Tea</span>
-                                                    <span class="productDetails" style="display: none;">স্পেশাল ক্যাটাগরির গ্রিন টি <br> এই চা এর মূল উৎপত্তিস্থল চীন <br>তাই মূল চায়ের গুণগত মান পেতে আমরা সরাসরি  চীনের ফুজিয়ান  থেকে নিয়ে এসেছি</span>
-                                                    <span class="productDescription" style="display: none;"> গ্রীন টি (Green Tea) একটি চমৎকার স্বাস্থ্যকর এবং উপকারী পানীয়। এটি ক্যামেলিয়া সিনেনসিস পাতা এবং কুঁড়ি অর্থাৎ চা গাছের পাতা এবং কুঁড়ি থেকে তৈরি করা হয়। এর স্বাস্থ্য উপকারিতা অন্যান্য চা অপেক্ষা অনেক বেশি। যারা স্বাস্থ্য সচেতন তারা ডিটক্স পানীয় হিসেবে নিয়মিত এটি পান করে থাকেন। ওজন কমানোর ক্ষেত্রে গ্রীন টি এর জুড়ি নেই। <br>
-                                                    *** গ্রীন টি এর উপকারিতা
-                                                        ১। ওজন কমাতে সাহায্য করে।
-                                                        ২। স্মৃতিশক্তি বৃদ্ধি করে।
-                                                        ৩। ডায়বেটিস প্রতিরোধে সহায়ক।
-                                                        ৪। শরীরের অতিরিক্ত ক্যালরি দূর করে।
-                                                        ৫। মেটাবলিজম বৃদ্ধি করে।
-                                                        ৬। হৃদরোগের ঝুঁকি কমায়।
-                                                        ৭। অবসাদ দূর করে।
-                                                        ৮। ত্বকের যত্নে ব্যবহার করা যায়।
-                                                        ৯। রোগ প্রতিরোধ ক্ষমতা বৃদ্ধি করে।
-                                                        ১০। ক্যান্সার প্রতিরোধে সহায়তা করে।
-
-                                                    ** এতো এতো উপকারী ভূমিকা থাকা স্বত্ত্বেও অতিরিক্ত পরিমাণ গ্রীন টি সেবন থেকে বিরত থাকাই শ্রেয়। কেননা অতিরিক্ত সেবনের ফলে দেহে কিছু পার্শ্বপ্রতিক্রিয়া দেখা দিতে পারে। তাই বিশেষজ্ঞরা দিনে ২কাপের বেশি এই চা সেবন না করার পরামর্শ দিয়ে থাকে।  <br><br>
-
-                                                    ** কেন Online Shohoj Bazar গ্রীণ টি (Green Tea) কিনবেন?
-                                                            ১। প্রাকৃতিক গুনাগুন সম্পূর্ণরূপে বজায় থাকে।
-                                                            ২। ভেজালমুক্ত বিশুদ্ধ চা।
-                                                            ৩। শতভাগ বিশুদ্ধতা নিশ্চিত করা হয়।
-                                                            ৪। সরাসরি  চীনের ফুজিয়ান  থেকে ইমপোর্টকৃত।
-
-                                                    </span>
-                                                    <div class="d-flex justify-content-between ">
-                                                        <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 600/- 150gm </p>
-                                                        <!-- </div> still in button.blade.php -->
-                                                    <?php include 'component/userComponent/addCart_button.php'; ?>
-                                                        
-                                                    </div>
-                                                </div>
                                             </div>
 
                                             <div class="col-md-6 col-lg-4 col-xl-3">
@@ -482,12 +591,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>  
-                                    </div>
-                                 <!-- ====================3rd line ===========================-->
-                                    <div class="col-lg-12">
-                                        <div class="row g-4">
-                                            
+
                                             <div class="col-md-6 col-lg-4 col-xl-3">
                                                 <div class="rounded position-relative fruite-item">
                                                     <div  class="fruite-img">
@@ -498,7 +602,7 @@
                                                         <span  style="display: none;">
                                                                 <img class="thamnelImgone" src="assets/userAssets/img/tea _combo/standard_tea/standard_poli_pack_banner.jpg" >
                                                                 <img class="thamnelImgtwo " src="assets/userAssets/img/tea _combo/standard_tea/standard_tea.jpg" >
-                                                                <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/standard_tea/standard_tea_pac.jpg" >
+                                                                <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/standard_tea/standard_tea.jpg" >
                                                         </span>
                                                     <!-- থাম্বনেইল + Arrow -->
                                                     
@@ -548,9 +652,9 @@
 
                                                     <!-- থাম্বনেইল + Arrow -->
                                                         <span  style="display: none;">
-                                                                <img class="thamnelImgone" src="assets/userAssets/img/tea _combo/standard_tea/standard_poli_pack_banner1.jpg" >
+                                                                <img class="thamnelImgone" src="assets/userAssets/img/tea _combo/standard_tea/standard_poli_pack_banner.jpg" >
                                                                 <img class="thamnelImgtwo " src="assets/userAssets/img/tea _combo/standard_tea/standard_tea.jpg" >
-                                                                <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/standard_tea/standard_tea_pac1.jpg" >
+                                                                <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/standard_tea/standard_tea.jpg" >
                                                         </span>
                                                     <!-- থাম্বনেইল + Arrow -->
                                                     
@@ -586,6 +690,52 @@
                                                         <div class="d-flex justify-content-between ">
                                                             <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 380/- 100gm</p> 
                                                             <!-- </div> still in button.blade.php -->
+                                                        <?php include 'component/userComponent/addCart_button.php'; ?>
+                                                            
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>  
+                                    </div>
+
+                                    <!-- ==================== 4th line ===========================-->
+                                    <div class="col-lg-12">
+                                        <div class="row g-4">
+
+                                            <div class="col-md-6 col-lg-4 col-xl-3">
+                                                <div class="rounded position-relative fruite-item">
+                                                    <div  class="fruite-img">
+                                                        <img src="assets/userAssets/img/tea_flask/double_wall_tea_flask_two.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
+                                                    </div>
+                                                    <!-- থাম্বনেইল + Arrow -->
+                                                        <span  style="display: none;">
+                                                                <img class="thamnelImgone" src="assets/userAssets/img/tea_flask/double_wall_tea_flask_one.jpg" >
+                                                                <img class="thamnelImgtwo " src="assets/userAssets/img/tea_flask/double_wall_tea_flask_two.jpg" >
+                                                                <img class="thamnelImgtree " src="assets/userAssets/img/tea_flask/double_wall_tea_flask_three.jpg" >
+                                                        </span>
+                                                    <!-- থাম্বনেইল + Arrow -->
+                                                
+                                                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                                                        <h4 class="productName">Double Layer Green Tea Flask (Silver) </h4>
+                                                        <p >প্রিমিয়াম ক্যাটাগরি ফ্লাক্স</p>
+
+                                                        <span class="productCategory" style="display: none;">Category: Premium</span>
+                                                        <span class="productDetails" style="display: none;">প্রিমিয়াম ক্যাটাগরির ফ্লাক্স  <br> আমরা সরাসরি  চীন থেকে নিয়ে এসেছি</span>
+                                                        <span class="productDescription" style="display: none;"> প্রিমিয়াম লুকে আমাদের এই ফ্লাক্সে আপনি দীর্ঘ সময় পর্যন্ত চা অথবা যে কোন গরম পানীয়  গরম রাখতে পারবেন।  <br>
+
+                                                        ** কেন Online Shohoj Bazar গ্রীণ টি (Green Tea) কিনবেন?
+                                                                ১। প্রাকৃতিক গুনাগুন সম্পূর্ণরূপে বজায় থাকে।
+                                                                ২। ভেজালমুক্ত বিশুদ্ধ চা।
+                                                                ৩। শতভাগ বিশুদ্ধতা নিশ্চিত করা হয়।
+                                                                ৪। সরাসরি  চীনের ফুজিয়ান  থেকে ইমপোর্টকৃত।
+
+                                                        </span>
+
+                                                        <div class="d-flex justify-content-between ">
+                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 950/- 1piece </p>
+                                                            <!-- </div> still in button.blade.php -->
+                                                        
                                                         <?php include 'component/userComponent/addCart_button.php'; ?>
                                                             
                                                     </div>
@@ -630,53 +780,6 @@
                                                     </div>
                                                 </div>
                                             </div>
-
-                                            <div class="col-md-6 col-lg-4 col-xl-3">
-                                                <div class="rounded position-relative fruite-item">
-                                                    <div  class="fruite-img">
-                                                        <img src="assets/userAssets/img/tea_flask/double_wall_tea_flask_two.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
-                                                    </div>
-                                                    <!-- থাম্বনেইল + Arrow -->
-                                                        <span  style="display: none;">
-                                                                <img class="thamnelImgone" src="assets/userAssets/img/tea_flask/double_wall_tea_flask_one.jpg" >
-                                                                <img class="thamnelImgtwo " src="assets/userAssets/img/tea_flask/double_wall_tea_flask_two.jpg" >
-                                                                <img class="thamnelImgtree " src="assets/userAssets/img/tea_flask/double_wall_tea_flask_three.jpg" >
-                                                        </span>
-                                                    <!-- থাম্বনেইল + Arrow -->
-                                                
-                                                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4 class="productName">Double Layer Green Tea Flask (Silver) </h4>
-                                                        <p >প্রিমিয়াম ক্যাটাগরি ফ্লাক্স</p>
-
-                                                        <span class="productCategory" style="display: none;">Category: Premium</span>
-                                                        <span class="productDetails" style="display: none;">প্রিমিয়াম ক্যাটাগরির ফ্লাক্স  <br> আমরা সরাসরি  চীন থেকে নিয়ে এসেছি</span>
-                                                        <span class="productDescription" style="display: none;"> প্রিমিয়াম লুকে আমাদের এই ফ্লাক্সে আপনি দীর্ঘ সময় পর্যন্ত চা অথবা যে কোন গরম পানীয়  গরম রাখতে পারবেন।  <br>
-
-                                                        ** কেন Online Shohoj Bazar গ্রীণ টি (Green Tea) কিনবেন?
-                                                                ১। প্রাকৃতিক গুনাগুন সম্পূর্ণরূপে বজায় থাকে।
-                                                                ২। ভেজালমুক্ত বিশুদ্ধ চা।
-                                                                ৩। শতভাগ বিশুদ্ধতা নিশ্চিত করা হয়।
-                                                                ৪। সরাসরি  চীনের ফুজিয়ান  থেকে ইমপোর্টকৃত।
-
-                                                        </span>
-
-                                                        <div class="d-flex justify-content-between ">
-                                                            <p style="text-align:left;" class="text-dark fs-5 fw-bold mb-0 productPrice">৳ 950/- 1piece </p>
-                                                            <!-- </div> still in button.blade.php -->
-                                                        
-                                                        <?php include 'component/userComponent/addCart_button.php'; ?>
-                                                            
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            
-                                        </div>  
-                                    </div>
-
-                                    <!-- ==================== 4th line ===========================-->
-                                    <div class="col-lg-12">
-                                        <div class="row g-4">
 
                                             <div class="col-md-6 col-lg-4 col-xl-3">
                                                 <div class="rounded position-relative fruite-item">
@@ -753,7 +856,6 @@
                                                </div>
                                             </div>
 
-                                            
                                         </div>  
                                     </div>
                                 </div>
@@ -817,9 +919,9 @@
 
                                             <div class="col-md-6 col-lg-4 col-xl-3">
                                                 <div class="rounded position-relative fruite-item">
-                                                <div  class="fruite-img">
-                                                    <img src="assets/userAssets/img/tea _combo/economy_tea/economy_cg_tea_pack.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
-                                                </div>
+                                                  <div  class="fruite-img">
+                                                    <img src="assets/userAssets/img/tea _combo/economy_tea/economy_cg_tea_pack.jpg" class="img-fluid w-100 rounded-top productImage" alt=""> </div>
+                                                   
 
                                                     <!-- থাম্বনেইল + Arrow -->
                                                         <span  style="display: none;">
@@ -988,7 +1090,7 @@
                                                         <span  style="display: none;">
                                                                 <img class="thamnelImgone" src="assets/userAssets/img/tea _combo/standard_tea/standard_poli_pack_banner.jpg" >
                                                                 <img class="thamnelImgtwo " src="assets/userAssets/img/tea _combo/standard_tea/standard_tea.jpg" >
-                                                                <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/standard_tea/standard_tea_pac.jpg" >
+                                                                <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/standard_tea/standard_poli_pack_banner.jpg" >
                                                         </span>
                                                     <!-- থাম্বনেইল + Arrow -->
                                                     
@@ -1033,14 +1135,14 @@
                                             <div class="col-md-6 col-lg-4 col-xl-3">
                                                 <div class="rounded position-relative fruite-item">
                                                     <div  class="fruite-img">
-                                                        <img src="assets/userAssets/img/tea _combo/standard_tea/standard_poli_pack_banner1.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
+                                                        <img src="assets/userAssets/img/tea _combo/standard_tea/standard_poli_pack_banner.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
                                                     </div>
 
                                                     <!-- থাম্বনেইল + Arrow -->
                                                         <span  style="display: none;">
-                                                                <img class="thamnelImgone" src="assets/userAssets/img/tea _combo/standard_tea/standard_poli_pack_banner1.jpg" >
+                                                                <img class="thamnelImgone" src="assets/userAssets/img/tea _combo/standard_tea/standard_poli_pack_banner.jpg" >
                                                                 <img class="thamnelImgtwo " src="assets/userAssets/img/tea _combo/standard_tea/standard_tea.jpg" >
-                                                                <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/standard_tea/standard_tea_pac1.jpg" >
+                                                                <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/standard_tea/standard_poli_pack_banner.jpg" >
                                                         </span>
                                                     <!-- থাম্বনেইল + Arrow -->
                                                     
@@ -1081,7 +1183,6 @@
                                                     </div>
                                                 </div>
                                             </div>
-
                                             
                                         </div>
                                     </div>
@@ -1142,13 +1243,11 @@
                                             </div>
                                             </div>
 
-                                        
-
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                           <!-- Aristocrat Gift -->
+                           <!-- Aristocrat Gift and special_tea-->
                             <div id="tab-5" class="tab-pane fade show p-0">
                                 <div class="row g-4">
                                     <div class="col-lg-12">
@@ -1213,8 +1312,8 @@
                                                         <!-- থাম্বনেইল + Arrow -->
                                                             <span  style="display: none;">
                                                                     <img class="thamnelImgone" src="assets/userAssets/img/tea _combo/special_tea/special_tea_pac_banner.jpg" >
-                                                                    <img class="thamnelImgtwo " src="assets/userAssets/img/tea _combo/special_tea/special_tea_pac.jpg" >
-                                                                    <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/special_tea/special_tea.jpg" >
+                                                                    <img class="thamnelImgtwo " src="assets/userAssets/img/tea _combo/special_tea/special_tea.jpg" >
+                                                                    <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/special_tea/special_tea_pac_banner.jpg" >
                                                             </span>
                                                         <!-- থাম্বনেইল + Arrow -->
                                                     
