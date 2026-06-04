@@ -16,7 +16,7 @@
     <div class="d-flex justify-content-between ">
         <!-- <a href="javascript:void(0)" onclick="addToCart(this)" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
         <!-- <a href="index.php?page=checkout" onclick="addToCart(this)" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSd6mio_osOyyuOURcOZmUfh1bVJM92QbSHKPgWMObbf2ht_Ew/viewform?usp=sharing&ouid=104014325800638141165"  target="_blank" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFjNceoYyupLXMUcpX-7LAGSjMX2TAMwYAhUDBfjriiN7Ekg/viewform?usp=sharing&ouid=104014325800638141165"  target="_blank" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
 
         <a onclick="goToShopDetail(this)" class="btn border border-secondary rounded-pill px-3 text-primary"> Details</a>
         
