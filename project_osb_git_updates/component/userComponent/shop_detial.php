@@ -595,13 +595,13 @@
                                             <div class="col-md-6 col-lg-4 col-xl-3">
                                                 <div class="rounded position-relative fruite-item">
                                                     <div  class="fruite-img">
-                                                        <img src="assets/userAssets/img/tea _combo/standard_tea/standard_poli_pack_banner.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
+                                                        <img src="assets/userAssets/img/tea _combo/standard_tea/update_standard_tea_pac.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
                                                     </div>
 
                                                     <!-- থাম্বনেইল + Arrow -->
                                                         <span  style="display: none;">
-                                                                <img class="thamnelImgone" src="assets/userAssets/img/tea _combo/standard_tea/standard_poli_pack_banner.jpg" >
-                                                                <img class="thamnelImgtwo " src="assets/userAssets/img/tea _combo/standard_tea/standard_tea.jpg" >
+                                                                <img class="thamnelImgone" src="assets/userAssets/img/tea _combo/standard_tea/standard_tea.jpg" >
+                                                                <img class="thamnelImgtwo " src="assets/userAssets/img/tea _combo/standard_tea/update_standard_tea_pac.jpg" >
                                                                 <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/standard_tea/standard_tea.jpg" >
                                                         </span>
                                                     <!-- থাম্বনেইল + Arrow -->
@@ -1083,14 +1083,14 @@
                                             <div class="col-md-6 col-lg-4 col-xl-3">
                                                 <div class="rounded position-relative fruite-item">
                                                     <div  class="fruite-img">
-                                                        <img src="assets/userAssets/img/tea _combo/standard_tea/standard_poli_pack_banner.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
+                                                        <img src="assets/userAssets/img/tea _combo/standard_tea/update_standard_tea_pac.jpg" class="img-fluid w-100 rounded-top productImage" alt="">
                                                     </div>
 
                                                     <!-- থাম্বনেইল + Arrow -->
                                                         <span  style="display: none;">
-                                                                <img class="thamnelImgone" src="assets/userAssets/img/tea _combo/standard_tea/standard_poli_pack_banner.jpg" >
+                                                                <img class="thamnelImgone" src="assets/userAssets/img/tea _combo/standard_tea/update_standard_tea_pac.jpg" >
                                                                 <img class="thamnelImgtwo " src="assets/userAssets/img/tea _combo/standard_tea/standard_tea.jpg" >
-                                                                <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/standard_tea/standard_poli_pack_banner.jpg" >
+                                                                <img class="thamnelImgtree " src="assets/userAssets/img/tea _combo/standard_tea/update_standard_tea_pac.jpg" >
                                                         </span>
                                                     <!-- থাম্বনেইল + Arrow -->
                                                     
