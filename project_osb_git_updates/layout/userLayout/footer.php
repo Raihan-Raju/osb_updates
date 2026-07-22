@@ -51,7 +51,7 @@
                         <p>Address: East Kafrul, Mirpur-14, Dhaka,Bangladesh</p>
                         <!-- <p>Email: Example@gmail.com</p> -->
                        
-                        <p>Phone:+88 01323880031</p>
+                        <p>Phone:+88 01314070106</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
@@ -87,7 +87,7 @@
 
     <!-- Back to Top -->
     <div class="floating-icons">
-        <a href="https://wa.me/8801323880031" target="_blank">
+        <a href="https://wa.me/8801314070106" target="_blank">
             <img src="assets/userAssets/img/whatsapp.png" alt="WhatsApp" class="floating-icon">
         </a>
         <a href="https://www.facebook.com/OnlineShohojBazar24" target="_blank">

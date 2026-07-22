@@ -55,7 +55,7 @@
                                 <i class="fa fa-phone-alt fa-2x text-primary me-4"></i>
                                 <div>
                                     <h4>Telephone</h4>
-                                    <p class="mb-2">+8801323880031</p>
+                                    <p class="mb-2">+8801314070106</p>
                                 </div>
                             </div>
                         </div>
